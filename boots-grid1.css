@@ -1,0 +1,13 @@
+.container{
+    margin: 0 auto;
+}
+.row{
+    background-color: orange;
+    margin: 2px;
+}
+.col{
+    margin: 2px;
+    padding: 1rem;
+    border: 2px solid green;
+    
+}
